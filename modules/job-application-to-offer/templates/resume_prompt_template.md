@@ -1,4 +1,4 @@
-# Resume Prompt Builder
+## Resume Prompt Builder
 
 > [!INFO] **How to use this template**
 > 
@@ -13,7 +13,9 @@
 > 📊 If after ~20 targeted applications you’re not seeing recruiter interest, tweak headline bullets and impact statements.
 >     
 
-##  📄 Prompt block
+---
+
+###  📄 Prompt block
 
 ```markdown
 # SYSTEM
@@ -90,6 +92,8 @@ Complete the following résumé sections following the guidelines above.
 > - 🌟 _Delivered a 12 % infra cost reduction by redesigning real‑time feature pipelines (Spark → Flink) serving 1 B events/day._
 >     
 
+---
+
 ## 💡 Recruiter tips
 
 1. Lead with **business impact**, not tech stack. This is an ad to win a callback.
@@ -109,3 +113,5 @@ Complete the following résumé sections following the guidelines above.
 8. Iterate based on callback metrics.
 
 Source: [Brian Pulliam's Lessons Learned LinkedIn Live](https://www.linkedin.com/events/7347038438900080641)
+
+---

@@ -1,4 +1,4 @@
-# 📄 Technical Interview Prep Prompt Builder
+## 📄 Technical Interview Prep Prompt Builder
 
 > [!INFO] **How to use this template**
 > 
@@ -15,11 +15,11 @@
 
 ---
 
-## 📄 Prompt block
+### 📄 Prompt block
 
 ```markdown
 # SYSTEM
-You are an expert technical-interview coach for [senior-level Machine-Learning / Data-Engineering] talent.
+You are an expert technical-interview coach for [senior-level Machine-Learning / Data-Engineering] talent. Your job is to craft either a question bank, mock interview, study bank or all, depending on `output_type`, considering the other `USER_INPUT` e.g. `interview_stage`, `role_spec`, etc. and especially `focus_areas`, `timeframe_weeks`.
 
 **Global rules**
 
@@ -92,11 +92,15 @@ _(Repeat for ~10–12 questions across sections)_
 | 1 | Distributed systems fundamentals | … | … |
 | 2 | Scalable feature stores | … | … |
 | … | … | … | … |
+```
 
 ---
 
 # Additional Recommendations
+
 - Record yourself answering 2–3 questions daily; review for clarity and conciseness.  
+- Use a live LLM voice chat (e.g. ChatGPT Voice) to perform mock interviews.
 - Pair-practice with a peer once per week.  
 - Iterate: after two mock sessions, refine weakest competency first.
-```
+
+---
