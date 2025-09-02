@@ -1,4 +1,4 @@
-# On-the-Job Toolkit
+# On the Job Toolkit
 
 This module aims to support daily tracking, reflection, and productivity once you have started your role.
 It complements the **Job Application to Offer** toolkit by focusing on sustainable work habits and documentation practices.
